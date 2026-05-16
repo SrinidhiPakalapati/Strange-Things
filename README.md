@@ -4,17 +4,22 @@ This project is built to practice web development fundamentals such as navigatio
 
 # Features
 • Attractive Stranger Things themed website
+
 • Information about series and characters
+
 • Build with completely using HTML and CSS
 
 # Technologies Used
 • HTML
+
 • CSS
 
 # Purpose of the Project
 
 • Creating a themed fan website
+
 • Improving styling and layout skills
+
 • Practicing frontend web development
 
 # Preview
