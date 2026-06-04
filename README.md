@@ -1,27 +1,23 @@
-# Stranger Things Fan Webpage
-This is a simple stylish fan website based on a popular Netflix series: Stranger Things, using basic HTML and CSS.
-This project is built to practice web development fundamentals such as navigation bars using anchor tags, styling, layouts,images, and many more.
+# Stranger Things
+This is a simple and stylish Fan Website for my most favorite series- Stranger Things.
+
+# Preview - Take a look at itt!!!
+
+![Preview Image](image.png)
 
 # Features
-• Attractive Stranger Things themed website
+• Stranger Things themed website (iconic black and red symbolisation)
 
-• Information about series and characters
-
-• Build with completely using HTML and CSS
-
-# Technologies Used
+# Tech Used
 • HTML
 
 • CSS
 
-# Purpose of the Project
+# Why this project is made??
 
-• Creating a themed fan website
+• For all the stranger things fan's to have a good smile while looking at the website
 
-• Improving styling and layout skills
+• Learning and improving my web development Skills
 
-• Practicing frontend web development
+# Made with <3 by Srinidhi for the Stranger Things Universe... Hope it releases the secret new episodeee. :|
 
-# Preview
-
-![Preview Image](image.png)
